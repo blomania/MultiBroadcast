@@ -1,0 +1,4 @@
+velocity-plugin.json
+me\korolkotov\multibroadcast\Main.class
+me\korolkotov\multibroadcast\util\ChatUtil.class
+me\korolkotov\multibroadcast\command\MultiBroadcastCMD.class
